@@ -1,0 +1,2 @@
+name = "ms"
+puts name
